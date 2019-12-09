@@ -1,5 +1,4 @@
-#
-Hello, world
+# Hello, world
 
 A few more words
 
